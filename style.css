@@ -1,0 +1,18 @@
+*{
+    padding:0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.container{
+    background-color:#333333;
+    position: relative;
+}
+/* the ball styles */
+
+.ball-body{
+    width: 70px;
+    height: 70px;
+    position: absolute;
+    border-radius: 50%;
+    background-color: rgb(199, 199, 199);
+}
